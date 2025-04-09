@@ -63,6 +63,11 @@ app/
 - TypeScript
 - Lucide Icons
 
+##  🤖 AI & Data
+AI Code: passx.ipynb — Jupyter Notebook containing AI logic and models for analyzing stadium crowd data.
+
+Dataset: Crowd Density Dataset (Roboflow) used for training the AI system :
+https://universe.roboflow.com/abraham-wzqh2/crowd-density-ou3ne/dataset/1/download
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
